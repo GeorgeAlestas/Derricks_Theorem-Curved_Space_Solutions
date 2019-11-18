@@ -1,6 +1,6 @@
 # Evading Derrick's theorem in curved space: Static metastable spherical domain wall
 <p align="center">
-<img src="fig_info.jpg" width="600" title="Figure_1" />
+<img src="fig_info.jpg" width="700" title="Figure_1" />
 </p>
 
 ### :clipboard: Information
