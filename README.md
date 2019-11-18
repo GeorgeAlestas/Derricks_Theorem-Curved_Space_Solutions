@@ -10,4 +10,4 @@ This repository contains the Mathematica files necessary for the reproduction of
 
 If you use this Mathematica code or any of the figures please make sure to cite [10.1103/PhysRevD.99.064026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.064026).
 
-Any comments or suggestions are welcome. :smiley:
+Any comments or suggestions are welcome! :smiley:
