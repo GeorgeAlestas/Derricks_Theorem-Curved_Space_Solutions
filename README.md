@@ -1,8 +1,10 @@
 # Evading Derrick's theorem in curved space: Static metastable spherical domain wall
+<p align="center">
+<img src="fig_info.jpg" width="600" title="Figure_1" />
+</p>
 
 
 
+This repository contains the Mathematica files necessary for the reproduction of the figures as well as the numerical analysis of [10.1103/PhysRevD.99.064026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.064026), also found as [arXiv:1901.06659](https://arxiv.org/pdf/1901.06659.pdf).
 
-
-
-This repository contains the mathematica files necessary for the reproduction of the figures of arXiv:1901.06659
+If you use this Mathematica code or any of the figures please cite [10.1103/PhysRevD.99.064026](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.064026).
